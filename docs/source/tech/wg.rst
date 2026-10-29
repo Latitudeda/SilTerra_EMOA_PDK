@@ -16,6 +16,10 @@ The waveguide settings are defined in the wg folder.
    wg_LRIB_bends
    wg_HRIB
    wg_HRIB_bends
+   wg_LowRib
+   wg_LowRib_bends
+   wg_HighRib
+   wg_HighRib_bends
    wg_SIN_STRIP
    wg_SIN_STRIP_bends
    wg_SIN_STRIP1

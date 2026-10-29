@@ -8,11 +8,11 @@ Click ``PDK`` on the top toolbar of **AdvancedSDL** and select ``Open PDK Symbol
 
 .. image:: ../images/ASDL_1.png
 
-Locate and select the ``SilTerra`` folder.
+Locate and select the ``SilTerra_PDK`` folder.
 
 .. image:: ../images/ASDL_2.png
 
-After the import is complete, you will see the ``SilTerra`` component library on the left.
+After the import is complete, you will see the ``SilTerra_PDK`` component library on the left.
 
 .. image:: ../images/ASDL_3.png
 
@@ -20,11 +20,11 @@ Click ``File`` and then click ``New Project``.
 
 .. image:: ../images/ASDL_4.png
 
-Enter the project name and path, select ``SilTerra`` PDK in the PDK column, and click ``OK``.
+Enter the project name and path, select ``SilTerra_PDK`` in the PDK column, and click ``OK``.
 
 .. image:: ../images/ASDL_5.png
 
-Wait for the contents of ``Import SilTerra_EMO1_Cu_PDK_rev13p0_Latitude PDK symbols succeeded`` to appear in the output. The project automatically creates a new circuit ``Untitled_1``, and the SilTerra PDK component library is at the bottom left.
+Wait for the contents of ``Import SilTerra_EMOA_PDK_rev6p0_Latitude PDK symbols succeeded`` to appear in the output. The project automatically creates a new circuit ``Untitled_1``, and the SilTerra PDK component library is at the bottom left.
 
 .. image:: ../images/ASDL_6.png
 

@@ -1,14 +1,14 @@
-SilTerra EMO1 Cu documentation
+SilTerra EMOA documentation
 ====================================
 .. image:: ./images/LDS_LOGO_WIDE.png
    :width: 100%
    :align: center
 
-This documentation outlines the contents and usage of the **Latitude PDK** for **SilTerra EMO1 Cu** (rev13).
+This documentation outlines the contents and usage of the **Latitude PDK** for **SilTerra EMOA** (rev6).
 
 The PDK is compatible with **PhotoCAD** and **Advanced SDL** for layout generation. Key features and capabilities include:
 
-- Designing custom components using the defined layers from **SilTerra EMO1 Cu**.
+- Designing custom components using the defined layers from **SilTerra EMOA**.
 - Creating circuits with **SilTerra**'s predefined components and **Latitude**'s base PCell.
 - Automating routing with supported waveguide types and metal line configurations.
 

@@ -5,15 +5,10 @@ Component library
    :hidden:
 
    bend
-   sbend
    straight
    taper
+   transition
    via
-   fixed_crossing
-   fixed_gc
-   fixed_heater
-   fixed_mmi
-   fixed_transition
 
 
 
