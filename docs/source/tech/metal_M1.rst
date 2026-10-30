@@ -1,4 +1,4 @@
-m1.py
+met1.py
 ===================
 
-Define the ``M1`` metal layer used in the SilTerra PDK.
+Define the ``MET1`` metal layer used in the SilTerra PDK.

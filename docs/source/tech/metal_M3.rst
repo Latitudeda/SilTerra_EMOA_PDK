@@ -1,4 +1,4 @@
-m3.py
+met3.py
 ===================
 
-Define the ``M3`` metal layer used in the SilTerra PDK.
+Define the ``MET3`` metal layer used in the SilTerra PDK.
